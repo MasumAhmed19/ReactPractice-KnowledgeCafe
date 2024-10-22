@@ -1,0 +1,40 @@
+[
+    {
+      "coverImg": "../images/2.png",
+      "profileImg": "../images/boy2.png",
+      "name": "Jane Smith",
+      "date": "2024-10-18",
+      "readTime": 7,
+      "title": "Understanding JavaScript Closures",
+      "hashtags": ["#JavaScript", "#Programming", "#Closures", "#WebDev"]
+      
+    },
+    {
+      "coverImg": "../images/1.jpg",
+      "profileImg": "../images/boy1.png",
+      "name": "John Doe",
+      "date": "2024-10-20",
+      "readTime": 5,
+      "title": "How to Build a Responsive Website",
+      "hashtags": ["#WebDevelopment", "#HTML", "#CSS", "#JavaScript"]
+    },
+    {
+      "coverImg": "../images/3.png",
+      "profileImg": "../images/girl1.jpg",
+      "name": "Yana Clark",
+      "date": "2024-10-15",
+      "readTime": 3,
+      "title": "Introduction to React Hooks",
+      "hashtags": ["#React", "#Hooks", "#Frontend", "#JavaScript"]
+    },
+    {
+      "coverImg": "../images/4.jpg",
+      "profileImg": "../images/girl2.jpg",
+      "name": "Emily Davis",
+      "date": "2024-10-22",
+      "readTime": 6,
+      "title": "A Beginner's Guide to Python",
+      "hashtags": ["#Python", "#Beginner", "#Programming", "#Tech"]
+    }
+]
+  
